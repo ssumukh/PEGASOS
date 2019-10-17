@@ -1,15 +1,22 @@
 # PEGASOS
 Gradient based solver for SVM
 
-The classification was done on the Fashion-MNIST dataset. The accuracy achieved was 80.2%. The confusion matrix is in the report. The sklearn-library achieved an accuracy 80.37% on the same dataset.
+This is a multi-class classifier. The classification was done on the Fashion-MNIST dataset, which has 10 classes. 
+
+The accuracy achieved was 80.2%. The confusion matrix is in the report. The sklearn-library achieved an accuracy 80.37% on the same dataset.
 
 #### Requirements:
 
-pandas
-scipy
-sklearn
-seaborn
-matplotlib
+Python3, Linux
+
+* pandas
+* scipy
+* numpy
+* sklearn
+* seaborn
+* matplotlib
+
+#### Running the classifier:
 
 To run the code and replicate results:
 
